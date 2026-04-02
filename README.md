@@ -15,17 +15,11 @@ ClickUp integrations, AI agents, client dashboards, and browser extensions.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=heyramzi&show_icons=true&hide_border=true&bg_color=00000000&title_color=878af8&text_color=8b949e&icon_color=878af8&hide=issues,contribs&rank_icon=github" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyramzi&layout=compact&hide_border=true&bg_color=00000000&title_color=878af8&text_color=8b949e&langs_count=6" />
+<img src="https://streak-stats.demolab.com/?user=heyramzi&hide_border=true&background=00000000&ring=414fd2&fire=e5a691&stroke=192846&currStreakNum=878af8&currStreakLabel=878af8&sideNums=878af8&sideLabels=8b949e&dates=8b949e&count_private=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=heyramzi&hide_border=true&background=00000000&ring=414fd2&fire=e5a691&stroke=192846&currStreakNum=878af8&currStreakLabel=878af8&sideNums=878af8&sideLabels=8b949e&dates=8b949e" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=heyramzi&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyramzi&bg_color=00000000&color=878af8&line=414fd2&point=e5a691&area=true&hide_border=true" />
 
 <br/>
 
