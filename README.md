@@ -6,8 +6,7 @@
 
 **Founder at [UpSys Consulting](https://upsys-consulting.com)**
 
-Building AI tools and workflow automation for agencies —
-ClickUp integrations, AI agents, client dashboards, and browser extensions.
+Building powerful systems for agencies.
 
 <br/>
 
@@ -19,7 +18,7 @@ ClickUp integrations, AI agents, client dashboards, and browser extensions.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyramzi&bg_color=00000000&color=878af8&line=414fd2&point=e5a691&area=true&hide_border=true" />
+<img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=heyramzi&bg_color=00000000&color=878af8&line=414fd2&point=e5a691&area=true&hide_border=true" />
 
 <br/>
 
@@ -39,5 +38,5 @@ ClickUp integrations, AI agents, client dashboards, and browser extensions.
 [x-url]: https://twitter.com/heyramzi
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/ramzitabka
-[website-badge]: https://img.shields.io/badge/upsys--consulting.com-414fd2?style=flat-square&logoColor=white
+[website-badge]: https://img.shields.io/badge/upsys--consulting.com-414fd2?style=flat-square&logo=safari&logoColor=white
 [website-url]: https://upsys-consulting.com
