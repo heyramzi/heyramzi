@@ -2,9 +2,9 @@
 
 <br>
 
-### Ramzi
+**Ramzi**
 
-Developer and consultant at [UpSys Consulting](https://upsys-consulting.com)
+Developer · [UpSys Consulting](https://upsys-consulting.com)
 
 <br>
 
@@ -22,9 +22,9 @@ and the infrastructure that ties it all together.
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=heyramzi&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=f0f0f0&text_color=8b949e&icon_color=8b949e&include_all_commits=true&hide=issues,contribs)
+![Stats](https://github-readme-stats.vercel.app/api?username=heyramzi&show_icons=true&hide_border=true&bg_color=00000000&title_color=cdb94a&text_color=8b949e&icon_color=cdb94a&hide=issues,contribs&include_all_commits=true&rank_icon=github)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyramzi&layout=compact&hide_border=true&bg_color=00000000&title_color=f0f0f0&text_color=8b949e&langs_count=6&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyramzi&layout=compact&hide_border=true&bg_color=00000000&title_color=cdb94a&text_color=8b949e&langs_count=6)
 
 <br>
 
