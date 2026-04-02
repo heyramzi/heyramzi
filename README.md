@@ -18,7 +18,7 @@ Building powerful systems for agencies.
 
 <br/>
 
-<img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=heyramzi&bg_color=00000000&color=878af8&line=414fd2&point=e5a691&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyramzi&bg_color=00000000&color=878af8&line=414fd2&point=e5a691&area=true&hide_border=true&height=160" />
 
 <br/>
 
