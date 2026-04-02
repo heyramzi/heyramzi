@@ -4,17 +4,10 @@
 
 # Ramzi
 
-**Developer at [UpSys Consulting](https://upsys-consulting.com)**
+**Founder at [UpSys Consulting](https://upsys-consulting.com)**
 
-Building AI tools and workflow automation for agencies — ClickUp integrations, AI agents, client dashboards, and browser extensions.
-
-<br/>
-
-[![TypeScript][ts-badge]][ts-url]
-[![SvelteKit][svelte-badge]][svelte-url]
-[![Convex][convex-badge]][convex-url]
-[![Claude][claude-badge]][claude-url]
-[![Docker][docker-badge]][docker-url]
+Building AI tools and workflow automation for agencies —
+ClickUp integrations, AI agents, client dashboards, and browser extensions.
 
 <br/>
 
@@ -22,7 +15,21 @@ Building AI tools and workflow automation for agencies — ClickUp integrations,
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyramzi&show_icons=true&hide_border=true&bg_color=00000000&title_color=878af8&text_color=8b949e&icon_color=878af8&hide=issues,contribs&include_all_commits=true&rank_icon=github)](https://github.com/heyramzi)
+<img src="https://github-readme-stats.vercel.app/api?username=heyramzi&show_icons=true&hide_border=true&bg_color=00000000&title_color=878af8&text_color=8b949e&icon_color=878af8&hide=issues,contribs&rank_icon=github" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyramzi&layout=compact&hide_border=true&bg_color=00000000&title_color=878af8&text_color=8b949e&langs_count=6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=heyramzi&hide_border=true&background=00000000&ring=414fd2&fire=e5a691&stroke=192846&currStreakNum=878af8&currStreakLabel=878af8&sideNums=878af8&sideLabels=8b949e&dates=8b949e" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=heyramzi&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=4" />
+
+<br/>
+
+---
 
 <br/>
 
@@ -33,18 +40,6 @@ Building AI tools and workflow automation for agencies — ClickUp integrations,
 <br/>
 
 </div>
-
-<!-- SHIELDS -->
-[ts-badge]: https://img.shields.io/badge/TypeScript-414fd2?style=for-the-badge&logo=typescript&logoColor=white
-[ts-url]: https://www.typescriptlang.org
-[svelte-badge]: https://img.shields.io/badge/SvelteKit-414fd2?style=for-the-badge&logo=svelte&logoColor=white
-[svelte-url]: https://svelte.dev
-[convex-badge]: https://img.shields.io/badge/Convex-414fd2?style=for-the-badge&logoColor=white
-[convex-url]: https://convex.dev
-[claude-badge]: https://img.shields.io/badge/Claude-414fd2?style=for-the-badge&logoColor=white
-[claude-url]: https://anthropic.com
-[docker-badge]: https://img.shields.io/badge/Docker-414fd2?style=for-the-badge&logo=docker&logoColor=white
-[docker-url]: https://docker.com
 
 [x-badge]: https://img.shields.io/badge/@heyramzi-000000?style=flat-square&logo=x&logoColor=white
 [x-url]: https://twitter.com/heyramzi
