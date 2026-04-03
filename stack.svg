@@ -1,28 +1,28 @@
-<svg width="495" height="114" viewBox="0 0 495 114" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="495" height="112" viewBox="0 0 495 112" fill="none" xmlns="http://www.w3.org/2000/svg">
 <style>
-  .lg { font: 500 11px "Segoe UI",Ubuntu,sans-serif; fill: #8b949e; }
-  .pct{ font: 600 11px "Segoe UI",Ubuntu,sans-serif; fill: #c9d1d9; }
+  .lg  { font: 500 11px "Segoe UI",Ubuntu,sans-serif; fill: #8b949e; }
+  .pct { font: 700 11px "Segoe UI",Ubuntu,sans-serif; fill: #c9d1d9; }
 </style>
-<clipPath id="bar"><rect x="24" y="28" width="447" height="10" rx="5"/></clipPath>
-<rect x="24.00" y="28" width="223.95" height="10" fill="#3178C6" clip-path="url(#bar)"/>
-<rect x="247.95" y="28" width="122.93" height="10" fill="#FF3E00" clip-path="url(#bar)"/>
-<rect x="370.87" y="28" width="55.88" height="10" fill="#F05138" clip-path="url(#bar)"/>
-<rect x="426.75" y="28" width="22.35" height="10" fill="#3572A5" clip-path="url(#bar)"/>
-<rect x="449.10" y="28" width="13.41" height="10" fill="#F7DF1E" clip-path="url(#bar)"/>
-<rect x="462.51" y="28" width="5.81" height="10" fill="#89E051" clip-path="url(#bar)"/>
-<rect x="468.32" y="28" width="3.13" height="10" fill="#563D7C" clip-path="url(#bar)"/>
-<circle cx="29.0" cy="61" r="4" fill="#3178C6"/>
-<text x="38.0" y="65" class="lg">TypeScript <tspan class="pct">50.1%</tspan></text>
-<circle cx="140.75" cy="61" r="4" fill="#FF3E00"/>
-<text x="149.75" y="65" class="lg">Svelte <tspan class="pct">27.5%</tspan></text>
-<circle cx="252.5" cy="61" r="4" fill="#F05138"/>
-<text x="261.5" y="65" class="lg">Swift <tspan class="pct">12.5%</tspan></text>
-<circle cx="364.25" cy="61" r="4" fill="#3572A5"/>
-<text x="373.25" y="65" class="lg">Python <tspan class="pct">5.0%</tspan></text>
-<circle cx="29.0" cy="85" r="4" fill="#F7DF1E"/>
-<text x="38.0" y="89" class="lg">JavaScript <tspan class="pct">3.0%</tspan></text>
-<circle cx="140.75" cy="85" r="4" fill="#89E051"/>
-<text x="149.75" y="89" class="lg">Shell <tspan class="pct">1.3%</tspan></text>
-<circle cx="252.5" cy="85" r="4" fill="#563D7C"/>
-<text x="261.5" y="89" class="lg">CSS <tspan class="pct">0.7%</tspan></text>
+<clipPath id="bar"><rect x="24" y="20" width="447" height="10" rx="5"/></clipPath>
+<rect x="24.00" y="20" width="223.95" height="10" fill="#3178C6" clip-path="url(#bar)"/>
+<rect x="247.95" y="20" width="122.93" height="10" fill="#FF3E00" clip-path="url(#bar)"/>
+<rect x="370.87" y="20" width="55.88" height="10" fill="#F05138" clip-path="url(#bar)"/>
+<rect x="426.75" y="20" width="22.35" height="10" fill="#3572A5" clip-path="url(#bar)"/>
+<rect x="449.10" y="20" width="13.41" height="10" fill="#F7DF1E" clip-path="url(#bar)"/>
+<rect x="462.51" y="20" width="5.81" height="10" fill="#89E051" clip-path="url(#bar)"/>
+<rect x="468.32" y="20" width="3.13" height="10" fill="#563D7C" clip-path="url(#bar)"/>
+<circle cx="25.9" cy="58" r="4.5" fill="#3178C6"/>
+<text x="34.9" y="62" class="lg">TypeScript <tspan class="pct">50.1%</tspan></text>
+<circle cx="150.6" cy="58" r="4.5" fill="#FF3E00"/>
+<text x="159.6" y="62" class="lg">Svelte <tspan class="pct">27.5%</tspan></text>
+<circle cx="265.6" cy="58" r="4.5" fill="#F05138"/>
+<text x="274.6" y="62" class="lg">Swift <tspan class="pct">12.5%</tspan></text>
+<circle cx="377.4" cy="58" r="4.5" fill="#3572A5"/>
+<text x="386.4" y="62" class="lg">Python <tspan class="pct">5.0%</tspan></text>
+<circle cx="29.1" cy="82" r="4.5" fill="#F7DF1E"/>
+<text x="38.1" y="86" class="lg">JavaScript <tspan class="pct">3.0%</tspan></text>
+<circle cx="157.1" cy="82" r="4.5" fill="#89E051"/>
+<text x="166.1" y="86" class="lg">Shell <tspan class="pct">1.3%</tspan></text>
+<circle cx="275.4" cy="82" r="4.5" fill="#563D7C"/>
+<text x="284.4" y="86" class="lg">CSS <tspan class="pct">0.7%</tspan></text>
 </svg>
