@@ -14,6 +14,10 @@ Building powerful systems for agencies.
 
 <br/>
 
+<img src="./lang-stats.svg" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=heyramzi&hide_border=true&background=00000000&ring=414fd2&fire=e5a691&stroke=192846&currStreakNum=878af8&currStreakLabel=878af8&sideNums=878af8&sideLabels=8b949e&dates=8b949e&count_private=true" />
 
 <br/>

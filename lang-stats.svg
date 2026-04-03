@@ -1,0 +1,43 @@
+<svg width="495" height="330" viewBox="0 0 495 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .t   { font: 500 12px "Segoe UI",Ubuntu,sans-serif; fill: #8b949e; }
+  .pct { font: 600 12px "Segoe UI",Ubuntu,sans-serif; fill: #c9d1d9; }
+  .h   { font: 700 14px "Segoe UI",Ubuntu,sans-serif; fill: #c9d1d9; letter-spacing: 0.5px; }
+</style>
+<text x="24" y="28" class="h">Stack</text>
+<circle cx="30" cy="53" r="5" fill="#3178C6"/>
+<text x="42" y="58" class="t">TypeScript</text>
+<text x="471" y="58" text-anchor="end" class="pct">50.1%</text>
+<rect x="24" y="66" width="447" height="7" rx="3.5" fill="#21262d"/>
+<rect x="24" y="66" width="223.9" height="7" rx="3.5" fill="#3178C6" opacity="0.9"/>
+<circle cx="30" cy="91" r="5" fill="#FF3E00"/>
+<text x="42" y="96" class="t">Svelte</text>
+<text x="471" y="96" text-anchor="end" class="pct">27.5%</text>
+<rect x="24" y="104" width="447" height="7" rx="3.5" fill="#21262d"/>
+<rect x="24" y="104" width="122.9" height="7" rx="3.5" fill="#FF3E00" opacity="0.9"/>
+<circle cx="30" cy="129" r="5" fill="#F05138"/>
+<text x="42" y="134" class="t">Swift</text>
+<text x="471" y="134" text-anchor="end" class="pct">12.5%</text>
+<rect x="24" y="142" width="447" height="7" rx="3.5" fill="#21262d"/>
+<rect x="24" y="142" width="55.9" height="7" rx="3.5" fill="#F05138" opacity="0.9"/>
+<circle cx="30" cy="167" r="5" fill="#3572A5"/>
+<text x="42" y="172" class="t">Python</text>
+<text x="471" y="172" text-anchor="end" class="pct">5.0%</text>
+<rect x="24" y="180" width="447" height="7" rx="3.5" fill="#21262d"/>
+<rect x="24" y="180" width="22.4" height="7" rx="3.5" fill="#3572A5" opacity="0.9"/>
+<circle cx="30" cy="205" r="5" fill="#F7DF1E"/>
+<text x="42" y="210" class="t">JavaScript</text>
+<text x="471" y="210" text-anchor="end" class="pct">3.0%</text>
+<rect x="24" y="218" width="447" height="7" rx="3.5" fill="#21262d"/>
+<rect x="24" y="218" width="13.4" height="7" rx="3.5" fill="#F7DF1E" opacity="0.9"/>
+<circle cx="30" cy="243" r="5" fill="#89E051"/>
+<text x="42" y="248" class="t">Shell</text>
+<text x="471" y="248" text-anchor="end" class="pct">1.3%</text>
+<rect x="24" y="256" width="447" height="7" rx="3.5" fill="#21262d"/>
+<rect x="24" y="256" width="5.8" height="7" rx="3.5" fill="#89E051" opacity="0.9"/>
+<circle cx="30" cy="281" r="5" fill="#563D7C"/>
+<text x="42" y="286" class="t">CSS</text>
+<text x="471" y="286" text-anchor="end" class="pct">0.7%</text>
+<rect x="24" y="294" width="447" height="7" rx="3.5" fill="#21262d"/>
+<rect x="24" y="294" width="3.1" height="7" rx="3.5" fill="#563D7C" opacity="0.9"/>
+</svg>
