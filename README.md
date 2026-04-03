@@ -14,7 +14,7 @@ Building powerful systems for agencies.
 
 <br/>
 
-<img src="./lang-stats.svg" />
+<img src="./stack.svg" />
 
 <br/>
 
