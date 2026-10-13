@@ -6,7 +6,15 @@
 
 **Founder at [UpSys Consulting](https://upsys-consulting.com)**
 
-Building powerful systems for agencies.
+Your agency runs on ClickUp and AI agents. These are the tools I build to run it for you.
+
+<br/>
+
+| Open | What it does |
+| :--- | :--- |
+| [clickup-agent-kit](https://github.com/heyramzi/clickup-agent-kit) | The `cu` command and the skills that let an AI agent read, clean up and run a ClickUp workspace |
+| [ai-agency](https://github.com/heyramzi/ai-agency) | 41 agent skills that run your agency on Claude, from SEO to YouTube to ClickUp delivery |
+| [canvas](https://github.com/heyramzi/canvas) | A Svelte 5 canvas on xyflow, with a pen, plugin cards and headless ops |
 
 <br/>
 
@@ -17,10 +25,6 @@ Building powerful systems for agencies.
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=heyramzi&hide_border=true&background=00000000&ring=414fd2&fire=e5a691&stroke=192846&currStreakNum=878af8&currStreakLabel=878af8&sideNums=878af8&sideLabels=8b949e&dates=8b949e&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyramzi&bg_color=00000000&color=878af8&line=414fd2&point=e5a691&area=true&hide_border=true&height=160" />
 
 <br/>
 
